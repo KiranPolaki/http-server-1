@@ -1,6 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 
+// Jenkins demo
 //middlewares - when a json is found it puts that json into the req.body
 
 const port = 3000;
